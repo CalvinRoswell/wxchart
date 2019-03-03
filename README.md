@@ -3,7 +3,10 @@
 
 
 
-![barchart](https://github.com/ioneday/wxchart/blob/master/image/barchart.png)![linechart](https://github.com/ioneday/wxchart/blob/master/image/line.png)![linechart](https://github.com/ioneday/wxchart/blob/master/image/barline.png)![linechart](https://github.com/ioneday/wxchart/blob/master/image/pie.png)
+![barchart](https://github.com/ioneday/wxchart/blob/master/image/barchart.png)
+![linechart](https://github.com/ioneday/wxchart/blob/master/image/line.png)
+![linechart](https://github.com/ioneday/wxchart/blob/master/image/barline.png)
+![linechart](https://github.com/ioneday/wxchart/blob/master/image/pie.png)
 
 
 
